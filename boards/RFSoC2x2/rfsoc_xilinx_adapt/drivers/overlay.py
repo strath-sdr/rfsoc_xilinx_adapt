@@ -20,7 +20,7 @@ from pynq import Overlay, allocate
 import xrfclk
 import xrfdc
 import os
-from hierarchies import *
+from .hierarchies import *
 from rfsoc_sam.quick_widgets import Image
 from ipywidgets import IntProgress
 from IPython.display import display
