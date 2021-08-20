@@ -6,7 +6,7 @@ This repository hosts the RFSoC OFDM and Spectrum Analyser demonstration for Xil
 The RFSoC design in this repository presents a ‘live’ SDR demonstration of RFSoC-PYNQ with two physical (PHY) layer mobile/cellular radio receiver designs for an 80MHz radio transceiver (4 channels x 20 MHz bands), one with a center frequency of 700MHz and the other at 3.5GHz. To visualize the radio receiver signals, the system uses an open-source spectrum analyzer running on the RFSoC to demonstrate the channelization and RF sampling at 700MHz and 3.5GHz.
 
 <p align="center">
-  <img src="./demonstration.gif" width="75%" height="75%" />
+  <img src="./demonstration.gif" width="100%" height="100%" />
 </p>
 
 ## Quick Start
